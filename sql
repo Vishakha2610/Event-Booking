@@ -19,5 +19,5 @@ CREATE TABLE bookings (
 
 -- Sample data
 INSERT INTO events (name, location, date) VALUES
-('Tech Conference', 'New York', '2025-02-10'),
-('Startup Expo', 'San Francisco', '2025-02-15');
+('Tech Conference', 'Bangalore', '2025-02-10'),
+('Startup Expo', 'Gurugram', '2025-02-15');
